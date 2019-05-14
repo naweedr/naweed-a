@@ -1,0 +1,10 @@
+discord.py[voice]
+pip
+youtube_dl==2019.05.11
+colorlog
+cffi --only-binary all; 
+aiohttp ~= 3.5.4
+websockets
+chardet
+opuslib
+pynacl==1.2.1
