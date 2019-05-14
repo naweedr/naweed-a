@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+~*/
+.vscode/
+
+audio_cache/
+dectalk/
+
+discord.log
+logs/
+data/
